@@ -24,12 +24,18 @@
     <ClCompile Include="Donut.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="protection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FrontEnd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Donut.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="protection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -141,11 +141,13 @@
   <ItemGroup>
     <ClCompile Include="Donut.cpp" />
     <ClCompile Include="FrontEnd.cpp" />
+    <ClCompile Include="protection.cpp" />
     <ClCompile Include="towers of Hanoi.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Donut.h" />
     <ClInclude Include="FrontEnd.h" />
+    <ClInclude Include="protection.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
